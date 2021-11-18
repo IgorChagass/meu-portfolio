@@ -7,6 +7,6 @@
 <li> <h6> Fonte incrível <sub> para ícones </sub> </h6> </li>
 </ul>
 </p>
-<h2> Visualize <a href="http://www.shrinathnayak.in"> Clique aqui </a> </h2>
+<h2> Visualize <a href="igorchagasportifolio.netlify.app"> Clique aqui </a> </h2>
 <h5> para mais consultas ou quaisquer detalhes <a href="igorchagasfree@gmail.com"> mail </a> </h5> <hr>
 <h3> Obrigado por verificar este modelo. </h3>
